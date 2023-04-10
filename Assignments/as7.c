@@ -7,7 +7,7 @@
 
 int main() {
     
-    int i, j, location;
+    int location;
     
     // multidimensional array for the connections between points
     int road_networks[row][column] = {
@@ -21,6 +21,8 @@ int main() {
         {0,0,0,0,0,0,0,1,1},
         {0,0,0,0,0,0,0,1,1}
     };
+  
+    // no adjacency matrix. sad emogi.
     
     // array for the names of points
     char point[column] = {'A', 'B', 'C', 'D', 'E','F', 'G', 'H', 'I'};
