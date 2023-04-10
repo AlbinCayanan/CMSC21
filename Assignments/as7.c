@@ -22,7 +22,7 @@ int main() {
         {0,0,0,0,0,0,0,1,1}
     };
   
-    // no adjacency matrix. sad emogi.
+    // no adjacency matrix. crying emogi.
     
     // array for the names of points
     char point[column] = {'A', 'B', 'C', 'D', 'E','F', 'G', 'H', 'I'};
